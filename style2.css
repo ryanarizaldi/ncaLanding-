@@ -262,7 +262,7 @@ img{
   text-align: center;
   text-decoration: solid;
   text-transform: capitalize;
-  text-decoration-color: aqua;
+  text-decoration-color: aqua;~
 }
 
 @media (max-width: 800px) {
